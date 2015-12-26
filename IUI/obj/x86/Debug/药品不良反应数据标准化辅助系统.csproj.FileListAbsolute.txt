@@ -1,0 +1,10 @@
+c:\users\dlz\documents\visual studio 2010\Projects\IUI\IUI\bin\Debug\IUI.exe.config
+c:\users\dlz\documents\visual studio 2010\Projects\IUI\IUI\bin\Debug\IUI.exe
+c:\users\dlz\documents\visual studio 2010\Projects\IUI\IUI\bin\Debug\IUI.pdb
+c:\users\dlz\documents\visual studio 2010\Projects\IUI\IUI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dlz\documents\visual studio 2010\Projects\IUI\IUI\obj\x86\Debug\IUI.Form1.resources
+c:\users\dlz\documents\visual studio 2010\Projects\IUI\IUI\obj\x86\Debug\IUI.Properties.Resources.resources
+c:\users\dlz\documents\visual studio 2010\Projects\IUI\IUI\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dlz\documents\visual studio 2010\Projects\IUI\IUI\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dlz\documents\visual studio 2010\Projects\IUI\IUI\obj\x86\Debug\IUI.exe
+c:\users\dlz\documents\visual studio 2010\Projects\IUI\IUI\obj\x86\Debug\IUI.pdb
